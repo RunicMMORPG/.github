@@ -2,10 +2,14 @@
 
 we are the RunicMMORPG Development Team
 
-## Our Team
-* Baltraz - Founder
-* BongoBerger - CoFounder
-* 
+## Our Development Team
+* Baltraz - Founder & Developer
+* BongoBerger - CoFounder & Developer
+* Gabriel - Developer
+* OiMars - Designer
+* SchmungusObungus - Designer
+* CJ3 - Designer
+* Gamedub44 - Designer
 
 ## Socials
 <p align="left">
