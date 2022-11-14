@@ -3,7 +3,7 @@
 we are the RunicMMORPG Development Team
 
 ## Our Development Team
-* Baltraz - Founder & Developer
+* (Baltraz)[https://github.com/Killermaschine88] - Founder & Developer
 * BongoBerger - CoFounder & Developer
 * Gabriel - Developer
 * OiMars - Designer
