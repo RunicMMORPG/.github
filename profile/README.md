@@ -1,6 +1,6 @@
 # Hi there 👋
 
-we are the RunicMMORPG Development Team
+We are the RunicMMORPG Development Team.
 
 ## Our Development Team
 * [Baltraz](https://github.com/Killermaschine88) - Founder & Developer
